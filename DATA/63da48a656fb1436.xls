@@ -1,0 +1,1995 @@
+<table border='2px' title='엑셀'>
+							<th scope="col" class="" style="text-align:center;  background: #eceef2; background: #eceef2;" colspan="4">구분/지역명
+							     <button type="button" onclick="j_test(-50)" title="이전 콘텐츠 보기">◁</button>
+								<button type="button" onclick="j_test(50)" title="다음 콘텐츠 보기">▷</button>
+							</th>
+						<th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">총계</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2014년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2015년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2016년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2017년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2018년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2019년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2020년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2021년</th><th class="fixed_header" style="text-align:center;" background:="" #eceef2;="" #eceef2;"="" colspan="2">2022년</th></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2; background: #eceef2;" colspan="3">총이재민</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">세대/명</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">14,924</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">29,802</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">11</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">24</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">19</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,949</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">6,714</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,244</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,410</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3,685</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">7,014</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,199</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,206</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">488</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">887</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">5,340</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">10,528</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="4">인명</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" colspan="2">사망</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">명</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">39</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">6</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">18</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;" g_index="0">11</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">실종</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">명</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">부상</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">명</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">68</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">22</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">10</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">28</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">명</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">107</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">9</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">40</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">12</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">39</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="3">침수</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" colspan="2">농경지</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,405.6399999999999</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">630.1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">201.54</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">574</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">도시</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,405.6399999999999</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">630.1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">201.54</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">574</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="5">건물</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="3">주건물</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">유실·전파</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">동</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">134</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">7</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">65</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">25</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">22</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">반파</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">동</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">591</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">57</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">40</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">207</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">207</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">13</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">65</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">침수</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">동</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">13,597</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">36</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,881</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,172</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,131</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">817</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">448</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,106</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">동</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">14,322</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">40</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,949</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,219</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,403</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,049</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">463</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,193</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">35,588,834</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">110,400</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">3,600</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">2,943,600</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">2,188,800</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">9,825,034</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">6,133,400</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">1,338,000</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:widtd:100px;display:inline;" g_index="0">13,046,000</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="6">선박</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="2">동력</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">전파</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">척/톤</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">178</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">210.33</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">7.36</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">58</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">85.31</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">32</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">23.21</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">22</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">29.15</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">52</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">50.59</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">11</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">14.71</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">반파</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">척/톤</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">377</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">238.71</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2.75</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">6.87</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">163</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">105.72</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">35</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">18.35</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">20</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">10.19</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">114</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">75.86</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">40</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">18.97</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">무동</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">전파</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">척/톤</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">11</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">13.15</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3.79</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.63</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">5.54</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2.19</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">반파</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">척/톤</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">10</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1.05</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1.05</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">척/톤</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">576</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">463.24</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2.75</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">5</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">14.23</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">229</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">195.87</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">71</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">42.19</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">43</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">40.34</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">170</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">131.99</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">55</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">35.87</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,874,830</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,258</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">81,655</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,170,569</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">273,667</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">293,127</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">753,907</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">290,647</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="4">농경지</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" colspan="2">전</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,166.3746</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1.32</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0.05</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">613.98</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">56.61</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">898.4943</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">192.7417</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">64.5775</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">338.6011</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">답</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">456.78499999999997</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">456.765</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0.02</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,623.1595999999995</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1.32</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0.05</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">613.98</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">56.61</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,355.2593</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">192.7617</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">64.5775</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">338.6011</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">32,220,738</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">20,857</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,192</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6,941,106</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">753,776</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">9,620,941</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,590,423</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,823,137</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">9,469,306</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="4">농작물</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" colspan="2">전작</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,252,200.148</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,753.859</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,250,446.219</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0.07</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">답작</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">319,403.335</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,595.395</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">316,757.134</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">50.806</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">기타</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">414,862.662</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,632.75</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">255.55</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">37,338.13</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">158.03</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">39,240.47</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">139,454.4719</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">132,508.9165</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">7,734.4092</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">52,539.9344</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,986,466.145</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,632.75</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">255.55</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">37,338.13</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">158.03</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">39,240.47</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">143,803.7259</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,699,712.2695</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">7,734.4092</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">52,590.8104</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="32">공공시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="3">도로</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">도로</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,313</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">66,243.9</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">23</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">797</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">20</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,683</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">254</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">22,974</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">77</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4,501</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">464</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">17,199.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">384</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">16,665</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">39</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">576.4</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">52</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">848</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">교량</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">40</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,151.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">20</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">323</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">85</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">164</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">13</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">250.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">172</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">137</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">99,807,992</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">741,810</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,339,463</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,272,364</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6,799,766</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">30,563,292</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">26,440,889</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">936,290</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">20,714,118</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">하천</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">하천</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,115</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">233,834.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">19</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">702</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">110</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">283</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">133,204</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">92</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">9,472</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">305</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">46,560</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">270</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">29,344.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">111</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12,317</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">33</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,125</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">176,792,001</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">994,427</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">36,133</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">45,627,696</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,296,383</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">26,919,986</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">18,845,609</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">7,358,545</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">72,713,222</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">소하천</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">소하천</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">1,711</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">132,448</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">41</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">1,037</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">5</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">4,052</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">354</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">54,683</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">161</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">9,087</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">527</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">42,792.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">350</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">15,517</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">166</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">3,286.5</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">107</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:200px;" g_index="0">1,993</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">96,352,593</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">886,847</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">199,380</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">16,448,547</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,725,279</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">17,559,276</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">10,405,830</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,117,836</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">45,009,598</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">수도</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">상하수도</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">252</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">82</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">79</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">53</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">25</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">17,801,712</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">58,048</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6,235,663</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,074,849</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,315,170</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,568,369</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">64,600</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,485,013</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">항만</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">항만시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">72</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">26</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">8</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">20</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">12</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">70,234,560</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">30,000</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">194,306</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">26,192,604</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,245,461</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">243,157</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">31,952,397</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">7,376,635</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">어항</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">어항시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">582</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">33</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">160</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">151</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">45</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">124</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">68</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">78,338,937</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">54,061</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,143,792</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">17,834,674</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,555,659</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,707,574</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">31,356,042</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">9,687,135</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">학교</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">학교시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">28</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">22</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">559,059</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">343,505</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">149,737</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">65,817</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">철도</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">철도</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">17</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">624</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">60</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">20</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">6</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">543</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,333,266</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,016,173</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">68,000</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">71,392</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">984,804</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">192,897</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="3">수리</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">수리시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">682</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">8</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">238</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">81</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">117</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">194</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">24</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">20</label>
+						</td></tr>
+						<td style="text-align:center;  background: #eceef2;">방조제</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">7</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td></tr>
+						<td style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">31,104,261</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">148,457</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,594,426</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,119,889</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,847,511</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,397,126</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,649,957</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,346,895</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="3">사방</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">사방</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/ha</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">873</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">22,149.03</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.05</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">111</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">54.21</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">32</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">23.27</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">373</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">21,958.71</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">283</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">97.06</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">63</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12.17</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">10</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3.56</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">임도</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/km</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">286</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">195.57</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.33</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2.33</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">89</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">169.42</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">164</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">22.21</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">13</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.83</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">6</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.45</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">68,944,520</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,453</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">8,687,506</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,025,213</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">24,569,351</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">24,855,791</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,053,738</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,747,468</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">군시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">군사시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">99</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">12</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">16</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">37</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">30</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6,722,082</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">361,395</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">951,107</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">875,734</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,438,661</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,958,404</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">136,781</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">소규모</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">시설물</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,955</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">64</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">17</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">499</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">339</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">982</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">695</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">194</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">165</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">65,592,707</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">711,651</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">439,784</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">10,554,768</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,542,055</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">22,294,572</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,790,982</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,820,662</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">13,438,233</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">해양</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">쓰레기</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/m</td>
+					<td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">700,659</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">500,659</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">200,000</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					</tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" rowspan="2">기타</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">기타</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">120,748</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">96</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">28,832</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">40,817</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,869</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">36,204</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">12,136</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">665</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">129</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">120,886,145</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">261,353</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">4,277,695</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">35,654,506</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">7,139,968</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">16,445,018</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">31,517,251</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">671,725</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">24,918,629</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">피해액소계</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">836,170,494</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">3,834,059</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,049,996</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">185,914,198</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">49,617,993</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">155,040,777</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">198,273,494</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">17,673,353</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">214,766,624</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" rowspan="8">사유시설</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" colspan="2">축대·담장</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">82,001</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">82,001</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">가축</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">마리/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">171,782</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3,100</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">43,552</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">47,179</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">48,171</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8,129</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,305</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">20,346</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">축사,잠사</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,048</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">5,845,976</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">124,373</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">6,050</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">203</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,064,002</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">56</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">467,870</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">345</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,881,302</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">267</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,441,875</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">5</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">15,602</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">163</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">844,902</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">수산증양식</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3,565</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">37,357,160</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">36</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">981,111</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">26</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,015,245</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">632</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8,594,135</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,251</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">8,074,553</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,075</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">13,088,649</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">324</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3,941,311</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">31,352</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">217</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,630,804</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">어망, 어구</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">통/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">175,668</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4,339,941</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">19,734</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,232,421</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">61</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,043,884</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">9,043</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">720,673</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">133,970</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,216,805</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">402</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">61,902</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12,458</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">64,256</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">비닐하우스</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">ha/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">7,771.145100000001</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">21,145,571</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.85</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">132,154</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.17</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12,018</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">44.16</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4,549,604</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">10.25</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,165,756</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">7,653.1803</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">9,671,272</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">47.8759</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4,195,297</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0.79</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">32,816</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">13.8689</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,386,654</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">기타</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">개소/천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">73,145</label>
+						</td><td class="w2tb_td fixed-side" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">22,768,506</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">244</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">77,083</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">161</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">1,960</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4,589</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,743,832</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">3,385</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">936,483</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">23,111</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">12,140,298</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">20,098</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">4,149,777</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">158</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">172,189</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">21,399</label>
+						</td><td class="w2tb_td" style="text-align:right;background-color:white;" g_index="0">
+							<label style="widtd:100px;" g_index="0">2,546,884</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;" colspan="2">피해액소계</td>
+						<td class="fixed-side w2tb_td first" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">91,457,154</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">1,314,721</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">2,267,694</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">17,995,457</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">11,365,335</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">37,998,326</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">13,790,162</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">251,959</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">6,473,500</label>
+						</td></tr>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;" colspan="3">총피해액</td>
+						<td class="fixed-side w2tb_td" style="text-align:center;  background: #eceef2;">천원</td>
+					<td class="w2tb_td first fixed-side" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">998,312,050</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">5,291,295</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">13,404,137</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">214,964,930</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">0</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">64,199,571</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">212,778,205</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">222,541,386</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">21,086,449</label>
+						</td><td class="w2tb_td first" style="text-align:right;background-color:white;" colspan="2" g_index="0">
+							<label style="widtd:100px;display:inline;" g_index="0">244,046,077</label>
+						</td></tr></table>
